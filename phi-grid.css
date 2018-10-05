@@ -1,0 +1,39 @@
+.phi2 .col-sm, .phi2 .col-lg,
+.phi3 .col-sm, .phi3 .col-lg,
+.phi3b .col-sm, .phi3b .col-lg {
+	position: relative;
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.phi2 .col-sm {
+	-ms-flex: 0 0 38.196601125%;
+	flex: 0 0 38.196601125%;
+	max-width:38.196601125%;
+}
+.phi2 .col-lg {
+	-ms-flex: 0 0 61.803398875%;
+	flex: 0 0 61.803398875%;
+	max-width: 61.803398875%;
+}
+.phi3 .col-sm {
+	-ms-flex: 0 0 23.606797750%;
+	flex: 0 0 23.606797750%;
+	max-width: 23.606797750%;
+}
+.phi3 .col-lg {
+	-ms-flex: 0 0 38.196601125%;
+	flex: 0 0 38.196601125%;
+	max-width: 38.196601125%;
+}
+.phi3b .col-sm {
+	-ms-flex: 0 0 27.639320225%;
+	flex: 0 0 27.639320225%;
+	max-width: 27.639320225%;
+}
+.phi3b .col-lg {
+	-ms-flex: 0 0 44.721359550%;
+	flex: 0 0 44.721359550%;
+	max-width: 44.721359550%;
+}
